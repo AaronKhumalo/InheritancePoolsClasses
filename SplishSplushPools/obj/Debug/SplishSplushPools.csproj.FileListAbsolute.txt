@@ -1,0 +1,10 @@
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\bin\Debug\SplishSplushPools.exe.config
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\bin\Debug\SplishSplushPools.exe
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\bin\Debug\SplishSplushPools.pdb
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.Form1.resources
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.Properties.Resources.resources
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.csproj.GenerateResource.cache
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.csproj.CoreCompileInputs.cache
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.exe
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.pdb
+D:\GUI Code\OOP Code\SplishSplushPools\SplishSplushPools\obj\Debug\SplishSplushPools.csproj.AssemblyReference.cache
